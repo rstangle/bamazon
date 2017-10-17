@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "One stop shop for all your W.O.D. needs",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstangle/bamazon.git"
+  },
+  "keywords": [
+    "WOD",
+    "CrossFit",
+  ],
+  "author": "Ryan Stangle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstangle/bamazon/issues"
+  },
+  "homepage": "https://github.com/rstangle/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
